@@ -1,6 +1,6 @@
 # CSS grid layout
 
-Brown Bag (lunchtime) talk on css grid layout, by DM :tada:
+Brown Bag (lunchtime) talk on css grid layout, by the wonderful @davidcmoulton :tada: thank you David!
 Date: 2018-07-02
 Note: this is second talk on using CSS for layout, first talk was about flexbox (retrieve notes from that, also by DM)
 
