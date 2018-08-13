@@ -19,13 +19,13 @@ We need:
 
 # Topics
 
-1. [why use python?](why-use-python)
+1. [why use python?](#why-use-python)
 2. [variables](variables)
-3. [collection types](collection-types)
-4. [loops](loops)
-5. [conditional statements](conditional-statements)
-6. [functions](functions)
-7. [imports](imports)
+3. [collection types](#collection-types)
+4. [loops](#loops)
+5. [conditional statements](#conditional-statements)
+6. [functions](#functions)
+7. [imports](#imports)
 
 ## why use python?
 
