@@ -79,7 +79,7 @@ Use 'string'.
   Note leave single line comments in code using #
 
 * int (integer) = numbers
-Similar way to create integers. Not can just type figures as integers
+Similar way to create integers. Note can just type figures as integers
 
 ```
 number_one = 1
