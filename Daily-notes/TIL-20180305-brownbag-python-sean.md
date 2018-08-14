@@ -10,12 +10,11 @@ Output: [a basic script](/Scripts/article.py) to call the eLife API for informat
 
 We need:
 
-* A package manager:
- * npm [Install from web](https://www.npmjs.com/get-npm)
- * homebrew [Install from web](https://brew.sh/)
- * Python 3 [Install from web](https://www.python.org/downloads/) - here we're using v3.6.4, you'll want the Mac OS X 64-bit/32-bit installer in the list of files
 * A terminal window open — search for 'terminal' in your desktop applications browser
 * A text editor open — using notepad is problematic, try [Sublime](https://www.sublimetext.com/) (better for RAM) or [Atom](https://atom.io/) (open source but crashes) instead as they're designed for coding [I use the latter]
+* Python 3 [Install from web](https://www.python.org/downloads/) - here we're using v3.6.4, you'll want the Mac OS X 64-bit/32-bit installer in the list of files
+ * This should install with 'pip', the python package manager. If not, installation instructions are [here](https://pip.pypa.io/en/stable/installing/): enter the first two green lines in the terminal. They fetch the get-pip.py script file from the web and then run the script. You can open the get-pip.py file first to check what you are about to run.
+
 
 # Topics
 
